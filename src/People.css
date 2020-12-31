@@ -1,0 +1,9 @@
+body{
+    background: rgb(100, 160, 175);
+    transition: all 1s;
+}
+
+.people form {
+    background: #fff;
+    padding: 20px;
+}
